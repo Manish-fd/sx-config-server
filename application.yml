@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: SX-TEST-SERVICE
-
 com:
   scalexyz:
     whatsappNumber: +911234567890
@@ -19,6 +15,8 @@ eureka:
     hostname: localhost
 
 spring:
+  application:
+    name: SX-TEST-SERVICE
   data:
     mongodb:
       uri: mongodb+srv://scalexyz:E3BoxDeFJFaUS64z@scalexyz.uhrticv.mongodb.net/scalexyz?retryWrites=true&w=majority
