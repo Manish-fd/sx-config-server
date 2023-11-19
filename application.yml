@@ -1,0 +1,20 @@
+com:
+  scalexyz:
+    whatsappNumber: +911234567890
+    maxPoolLimit: 20
+    chunkSize: 4
+    testMode: true
+    fcmKey: 
+    resourceUrl: http://192.168.29.209:8090/apis/v1/resources
+  twilio:
+    sid: ACdd3afb6fe713bfed38146547749b4ac6
+    token: 30b68cbc3c60c1ad076bc86353ded0a0
+
+eureka:
+  instance:
+    hostname: localhost
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://scalexyz:E3BoxDeFJFaUS64z@scalexyz.uhrticv.mongodb.net/scalexyz?retryWrites=true&w=majority
