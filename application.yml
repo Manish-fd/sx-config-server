@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: SX-TEST-SERVICE
+
 com:
   scalexyz:
     whatsappNumber: +911234567890
