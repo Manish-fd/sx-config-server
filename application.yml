@@ -10,6 +10,8 @@ com:
     sid: ACdd3afb6fe713bfed38146547749b4ac6
     token: 30b68cbc3c60c1ad076bc86353ded0a0
 
+testKey: OKOKOKOKOKOKOK
+
 # eureka:
 #   instance:
 #     hostname: localhost
